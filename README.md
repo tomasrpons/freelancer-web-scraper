@@ -2,9 +2,9 @@
 ## INSTALATION   
 Install anaconda (https://www.anaconda.com/products/individual)    
 Add anaconda to PATH:    
- - C:\Users\{NAME}\Anaconda3\Scripts        
- - C:\Users\{NAME}\Anaconda3       
- - C:\Users\{NAME}\Anaconda3\Library\bin      
+ - C:\Users\NAME\Anaconda3\Scripts        
+ - C:\Users\NAME\Anaconda3       
+ - C:\Users\NAME\Anaconda3\Library\bin      
 ## USAGE      
 Right click on "scrape.ps1" and run with Powershell.
 The result file will apear on the main folder, it may take around 20 min.
