@@ -17,5 +17,5 @@ data = data[data['Name'].notna()].reset_index(drop=True)
 
 print(data.info())
 
-data.to_csv('../result.csv')
+data.to_csv('../result.csv',index=True)
 
